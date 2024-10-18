@@ -2,11 +2,11 @@
 
 ## Vue d'ensemble
 
-Ce repository est conçu pour aider les développeurs à s’entraîner et à améliorer leurs compétences dans la mise en œuvre de tests unitaires et le développement piloté par les tests (TDD) en utilisant l'IA générative. À travers des exercices pratiques répartis sur différentes branches, les développeurs exploreront comment l'IA peut aider à créer, affiner et optimiser les tests unitaires dans leurs projets au quotidien.
+Ce repository est conçu pour aider les développeurs à s’entraîner et à améliorer leurs compétences dans la mise en œuvre de tests unitaires et le développement piloté par les tests en utilisant l'IA générative. À travers des exercices pratiques répartis sur différentes branches, les développeurs exploreront comment l'IA peut aider à créer, affiner et optimiser les tests unitaires dans leurs projets au quotidien.
 
 ## Audience
 
-Ce repository s'adresse aux développeurs de tous niveaux qui souhaitent intégrer des outils d'IA générative dans leur flux de travail, en mettant particulièrement l'accent sur les pratiques de tests unitaires et de TDD.
+Ce repository s'adresse aux développeurs frontend JS de tous niveaux qui souhaitent intégrer des outils d'IA générative dans leur flux de travail, en mettant particulièrement l'accent sur les pratiques de tests unitaires et de TDD.
 
 ## Comment Utiliser ce repository
 
