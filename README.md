@@ -10,6 +10,12 @@ Ce repository s'adresse aux développeurs frontend JS de tous niveaux qui souhai
 
 ## Comment Utiliser ce repository
 
+Chaque branche est numérotté par ordre croissant 01, 02, 0n... suivi du nom `exercice` et son numéro 1,2, n...
+Par exemple le premier exercice se trouve sur la branche [01_exercice1] et sa solution se trouve sur [02_exercice1_solution]
+
+[01_exercice1]: https://gitlab.groupeonepoint.com/codeshare/trainings/ai4dev/jstestingwithai/-/tree/01_exercice1?ref_type=heads
+[02_exercice1_solution]: https://gitlab.groupeonepoint.com/codeshare/trainings/ai4dev/jstestingwithai/-/tree/02_exercice1_solution?ref_type=heads
+
 Veuillez cloner ce projet avec la commande qui vous convient.
 Initier ce projet passe par les commandes suivantes installer les dépendences via:
 
