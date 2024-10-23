@@ -6,7 +6,7 @@ Ce repository est conçu pour aider les développeurs à s’entraîner et à am
 
 ## Audience
 
-Ce repository s'adresse aux développeurs frontend JS de tous niveaux qui souhaitent intégrer des outils d'IA générative dans leur flux de travail, en mettant particulièrement l'accent sur les pratiques de tests unitaires et de TDD.
+Ce repository s'adresse aux développeurs de tous niveaux qui souhaitent intégrer des outils d'IA générative dans leur flux de travail, en mettant particulièrement l'accent sur les pratiques de tests unitaires et de TDD.
 
 ## Comment Utiliser ce repository
 
