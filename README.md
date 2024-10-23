@@ -33,7 +33,7 @@ Jest est le framework de test utilisé dans ce projet. Il est configuré pour ex
 
 Ce dépôt contient plusieurs branches numérotées, chacune dédiée à un exercice spécifique :
 
-1. **Fonction reverseString** | **01_exercie1** | **20 minutes** - Implémentez des tests unitaires en utilisant des suggestions générées par l'IA.
+1. **Fonction reverseString** | **01_exercice1** | **20 minutes** - Implémentez des tests unitaires en utilisant des suggestions générées par l'IA.
 
 La fonction se situe dans le fichier utils.ts et les tests unitaires dans le fichier utils.test.ts. N'oubliez pas la commande ci-dessous pour lancer vos tests:
 
@@ -43,11 +43,11 @@ npm test
 
 Ces consignes sont valables pour tous les exercices
 
-2. **Fonction formatDate** - **03_exercie2** - **20 minutes** - Implémentez la fonction formatDate grâce aux tests présents dans le fichier utils.test.ts. Cette exercice vous sert à tester le potentiel de votre IA générative concernantl a pratique du TDD.
+2. **Fonction formatDate** - **03_exercice2** - **20 minutes** - Implémentez la fonction formatDate grâce aux tests présents dans le fichier utils.test.ts. Cette exercice vous sert à tester le potentiel de votre IA générative concernantl a pratique du TDD.
 
 N'hésitez pas à améliorer les tests unitaires.
 
-3. **Fonction fetchData** - **05_exercie3** - **20 minutes** - Mockez un appel d'API et élaborez une stratégie de test en envisageant tous les cas d'utilisation possibles.
+3. **Fonction fetchData** - **05_exercice3** - **20 minutes** - Mockez un appel d'API et élaborez une stratégie de test en envisageant tous les cas d'utilisation possibles.
 
 Pour travailler sur un exercice, basculez vers la branche pertinente et suivez les instructions fournies dans le README de la branche ou commentées dans le code.
 
