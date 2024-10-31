@@ -1,64 +1,62 @@
-# 🧪 Produire des Tests Unitaires avec l'IA Générative
+# 🧪 Producing Unit Tests with Generative AI
 
-## 👀 Vue d'ensemble
+## 👀 Overview
 
-Ce dépôt est conçu pour aider les développeurs à s'entraîner et à améliorer leurs compétences dans la mise en œuvre de tests unitaires et du développement piloté par les tests (TDD) en utilisant l'IA générative. À travers des exercices pratiques découpés sous forme de répertoires, les développeurs exploreront comment l'IA peut aider à créer, affiner et optimiser les tests unitaires dans leurs projets au quotidien.
+This repository is designed to help developers practice and enhance their skills in implementing unit tests and test-driven development (TDD) using generative AI. Through practical exercises organized in directories, developers will explore how AI can assist in creating, refining, and optimizing unit tests in their daily projects.
 
 ## 👤 Audience
 
-Ce dépôt s'adresse aux développeurs de tous niveaux qui souhaitent intégrer des outils d'IA générative dans leur flux de travail, avec un accent particulier sur les pratiques de tests unitaires et de TDD.
+This repository is intended for developers of all levels who wish to integrate generative AI tools into their workflow, with a particular focus on unit testing and TDD practices.
 
-## 🛠️ Comment Utiliser ce dépôt
+## 🛠️ How to Use this Repository
 
-Les différents exercices de cet atelier se trouvent tous dans le répertoire `exercices` et disposent chacun d'un `README`. Chaque exercice est contenu dans un répertoire numéroté de façon croissante (01, 02, 0n...), suivi du mot `exercice`. Par exemple, le premier exercice se trouve dans le répertoire `./exercices/01_exercice`. Les solutions des exercices sont disponibles dans le répertoire `solution`.
+The different exercises of this workshop are all located in the `exercises` directory, each with its own `README`. Each exercise is contained within a directory numbered incrementally (01, 02, 0n...), followed by the word `exercise`. For example, the first exercise is found in the `./exercises/01_exercise` directory. The solutions to the exercises are available in the `solution` directory.
 
-Pour cloner ce projet, utilisez la commande suivante :
-
-```bash
-git clone <A AJOUTER L'URL DU REPO FINAL>
-```
-
-Naviguez ensuite vers le répertoire de l'exercice voulu :
+To clone this project, use the following command:
 
 ```bash
-cd ./exercices/01_exercice1
+git clone <TO ADD FINAL REPO URL>
 ```
 
-Ensuite, installez les dépendances nécessaires :
+Then navigate to the desired exercise directory:
+
+```bash
+cd ./exercises/01_exercise
+```
+
+Next, install the necessary dependencies:
 
 ```bash
 npm install
 ```
 
-Lancez les tests avec :
+Run the tests with:
 
 ```bash
 npm test
 ```
 
-Jest est le framework de test utilisé dans ce projet. Il est configuré pour exécuter les tests automatiquement lorsque vous lancez la commande `npm test`.
+Jest is the test framework used in this project. It is configured to automatically run tests when you execute the npm test command.
 
-## 🧩 Structure des Exercices
-Pour travailler sur un exercice, basculez sur le répertoire correspondant et suivez les instructions du README ou les commentaires dans le code. En fonction de vos connaissances et ce que vous souhaitez approfondir, vous êtes libres de basculer sur les exercices que vous jugez pertinents.
+## 🧩 Exercises' structure
+To work on an exercise, switch to the corresponding directory and follow the instructions in the README or the code comments. Depending on your knowledge and what you want to deepen, feel free to switch to the exercises you find relevant.
 
-### 1. 🔤 Fonction reverseString | 01_exercice | 20 minutes
-Implémentez des tests unitaires en utilisant des suggestions générées par l'IA. La fonction se situe dans le fichier `utils.ts` et les tests unitaires dans le fichier `utils.test.ts`. 
+### 1. 🔤 Function reverseString | 01_exercise | 20 minutes
+Implement unit tests using AI-generated suggestions. The function is located in the `utils.ts` file and the unit tests in the `utils.test.ts` file.
 
-### 2. ⏳ Fonction formatDate - 02_exercice - 20 minutes
-Implémentez la fonction `formatDate` grâce aux tests présents dans le fichier `utils.test.ts`. Cette exercice vous sert à tester le potentiel de votre IA générative concernantl a pratique du TDD.
-N'hésitez pas à améliorer les tests unitaires.
+### 2. ⏳ Function formatDate - 02_exercise - 20 minutes
+Implement the `formatDate` function using the tests in the `utils.test.ts file`. This exercise helps you test the potential of your generative AI regarding TDD practices. Feel free to improve the unit tests.
 
-### 3. 👥 Fonction fetchData - 03_exercice - 20 minutes
-Mockez un appel d'API et élaborez une stratégie de test en envisageant tous les cas d'utilisation possibles.
-Pour travailler sur un exercice, basculez vers le dossier pertinent et suivez les instructions fournies dans le README de ce dossier ou commentées dans le code.
+### 3. 👥 Function fetchData - 03_exercise - 20 minutes
+Mock an API call and develop a test strategy by considering all possible use cases. To work on an exercise, switch to the relevant folder and follow the instructions provided in that folder's README or commented within the code.
 
-## 📈 Objectifs et Bénéfices des Exercices
+## 📈 Goals and Benefits of the Exercises
 
-**📝 Exercice 1, Tests Unitaires** : Cet exercice développe la capacité d'utiliser l'IA pour générer rapidement des tests unitaires efficaces. En automatisant la création de tests, les développeurs logiciels peuvent se concentrer sur l'écriture de code de haute qualité et explorer les cas limites qui pourraient ne pas être immédiatement apparents. L'exercice améliore la productivité en montrant comment l'IA peut prendre en charge les tâches de création de tests routinières, permettant un processus de test plus robuste.
+**📝 Exercise 1, Unit Tests:** : This exercise develops the ability to use AI to quickly generate effective unit tests. By automating test creation, software developers can focus on writing high-quality code and exploring edge cases that might not be immediately apparent. The exercise enhances productivity by showing how AI can handle routine test creation tasks, enabling a more robust testing process.
 
-**🧩 Exercice 2, TDD** : Cette tâche met l'accent sur la pratique du TDD via une IA générative et estimer la précision de cette dernière concernant cette pratique de clean code. Elle démontre comment l'IA peut produire du code à partir de test unitaires et itérer sur leur complétion pour garantire le comportement de cette fonction selon différents scénarios définis dans vos test unitaires.
+**🧩 Exercise 2, TDD** : This task emphasizes TDD practices through generative AI and assesses the precision of this approach regarding clean code practices. It demonstrates how AI can produce code from unit tests and iterate on their completion to ensure the function behaves according to different scenarios defined in your unit tests.
 
-**🤖 Exercice 3, Tests Unitaires avec Mocking** : En se concentrant sur une stratégie de mock pour les appels d'API, cet exercice encourage une inspection approfondie de tous les états possibles de l'application, tels que la récupération réussie des données, la gestion des erreurs d'API et les délais d'attente. Cela augmente la capacité d'un développeur à utiliser l'IA pour identifier et couvrir tous les cas potentiels, conduisant à des solutions logicielles résilientes et fiables.
+**🤖 Exercise 3, Unit Tests with Mocking** : Focusing on a mocking strategy for API calls, this exercise encourages a thorough inspection of all possible application states, such as successful data retrieval, API error handling, and timeouts. It increases a developer's ability to use AI to identify and cover all potential cases, leading to resilient and reliable software solutions.
 
 ## 🎯 Conclusion
-S'engager dans ces exercices non seulement améliorera vos compétences en matière de tests unitaires, mais vous donnera également un aperçu sur la manière dont l'IA peut être un puissant allié. Chaque dossier d'exercice de ce dépôt dispose d'un dossier de solution à consulter uniquement si vous avez besoin d'aide et/ou si vous avez épuisez le temps imparti à la réalisation de cette exercice.
+Engaging in these exercises will not only improve your skills in unit testing but also provide insights into how AI can be a powerful ally. Each exercise folder in this repository contains a solution folder to be consulted only if you need help and/or if you have exhausted the time allocated for this exercise.
