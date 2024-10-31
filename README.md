@@ -8,7 +8,7 @@ Ce dépôt est conçu pour aider les développeurs à s'entraîner et à amélio
 
 Ce dépôt s'adresse aux développeurs de tous niveaux qui souhaitent intégrer des outils d'IA générative dans leur flux de travail, avec un accent particulier sur les pratiques de tests unitaires et de TDD.
 
-## 🛠️ Comment Utiliser ce repository
+## 🛠️ Comment Utiliser ce dépôt
 
 Les différents exercices de cet atelier se trouvent tous dans le répertoire `exercices` et disposent chacun d'un `README`. Chaque exercice est contenu dans un répertoire numéroté de façon croissante (01, 02, 0n...), suivi du mot `exercice`. Par exemple, le premier exercice se trouve dans le répertoire `./exercices/01_exercice`. Les solutions des exercices sont disponibles dans le répertoire `solution`.
 
@@ -50,7 +50,7 @@ N'hésitez pas à améliorer les tests unitaires.
 
 ### 3. 👥 Fonction fetchData - 03_exercice - 20 minutes
 Mockez un appel d'API et élaborez une stratégie de test en envisageant tous les cas d'utilisation possibles.
-Pour travailler sur un exercice, basculez vers la branche pertinente et suivez les instructions fournies dans le README de la branche ou commentées dans le code.
+Pour travailler sur un exercice, basculez vers le dossier pertinent et suivez les instructions fournies dans le README de ce dossier ou commentées dans le code.
 
 ## 📈 Objectifs et Bénéfices des Exercices
 
@@ -61,4 +61,4 @@ Pour travailler sur un exercice, basculez vers la branche pertinente et suivez l
 **🤖 Exercice 3, Tests Unitaires avec Mocking** : En se concentrant sur une stratégie de mock pour les appels d'API, cet exercice encourage une inspection approfondie de tous les états possibles de l'application, tels que la récupération réussie des données, la gestion des erreurs d'API et les délais d'attente. Cela augmente la capacité d'un développeur à utiliser l'IA pour identifier et couvrir tous les cas potentiels, conduisant à des solutions logicielles résilientes et fiables.
 
 ## 🎯 Conclusion
-S'engager dans ces exercices non seulement améliorera vos compétences en matière de tests unitaires, mais vous donnera également un aperçu sur la manière dont l'IA peut être un puissant allié. Chaque branche d'exercice de ce repository dispose d'une branche de solution à consulter uniquement si vous avez besoin d'aide et/ou si vous avez épuisez le temps imparti à la réalisation de cette exercice.
+S'engager dans ces exercices non seulement améliorera vos compétences en matière de tests unitaires, mais vous donnera également un aperçu sur la manière dont l'IA peut être un puissant allié. Chaque dossier d'exercice de ce dépôt dispose d'un dossier de solution à consulter uniquement si vous avez besoin d'aide et/ou si vous avez épuisez le temps imparti à la réalisation de cette exercice.
