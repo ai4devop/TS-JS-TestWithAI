@@ -5,12 +5,7 @@
 Pour cloner ce projet, ouvrez un terminal de commande avec le chemin vers l'emplacement où vous voulez placer cet atelier et utilisez la commande suivante :
 
 ```bash
-git clone --branch 02-JS-Testing-IA https://github.com/Kaow/Atelier-exercices-IA.git
-```
-
-Puis, vous pouvez entrer dans le nouveau dossier que vous venez de récupérer avec la commande :
-```bash
-cd Atelier-exercices-IA
+git clone --branch main-fr https://github.com/ai4devop/TS-JS-TestWithAI.git
 ```
 
 Ensuite, installez les dépendances nécessaires :
