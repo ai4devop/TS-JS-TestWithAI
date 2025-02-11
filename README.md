@@ -2,7 +2,6 @@
 
 ## 🛠️ How to use this repository 
 
-Pour cloner ce projet, ouvrez un terminal de commande avec le chemin vers l'emplacement où vous voulez placer cet atelier et utilisez la commande suivante :
 To clone this project, open your terminal command with in the folder place you want to place this lab and use the following command:
 
 ```bash
