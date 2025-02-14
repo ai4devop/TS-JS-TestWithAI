@@ -1,4 +1,4 @@
-# Exercice2 - Testing ~45 minutes
+# Testing ~45 minutes
 
 ## 🛠️ How to use this repository 
 
