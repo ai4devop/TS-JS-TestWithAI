@@ -1,4 +1,4 @@
-# Exercice2 - Testing ~45 minutes
+# Testing ~45 minutes
 
 ## 🛠️ Comment Utiliser ce dépôt
 
