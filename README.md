@@ -1,4 +1,4 @@
-# Testing ~45 minutes
+# Testing
 
 ## 🛠️ How to use this repository 
 
@@ -28,7 +28,7 @@ In this exercise, you will find the `utils` class, which aims to provide utility
 - Realize the differents implementations described
 - Launch tests
 
-### 1. TDD - Write function from tests
+### 1. TDD - Write function from tests (20 minutes)
 For the first part of this exercise, we will write functions for processing `Date`. In the `utils.test` class, a series of unit tests have been written that dictate the expected behavior of 3 functions. You will now need to rely on these unit tests to write the code for these functions.
 
 - **Implement the function `formatDate(LocalDate date)`** :
@@ -44,7 +44,7 @@ For the first part of this exercise, we will write functions for processing `Dat
    - This function must accept and object `Date` and a `String` which will contains the date pattern expected, ex : 'yyyy-mm-dd' and return a `String` with the date with the expected format
 
 
-### 2. Write unit test by description
+### 2. Write unit test by description (20 minutes)
 For the second part of the exercise, we will tackle `Date` objects. This time, you will need to write tests that will dictate the behavior of the functions, and then proceed with writing the functions.
 
 - **For the function `formatDateTime(Date dateTime)`** :
@@ -66,7 +66,7 @@ For the second part of the exercise, we will tackle `Date` objects. This time, y
    - When the test have been made, you can generate the code for the function `parseDateTime(String dateTimeString)`
    - Make sure that the test you wrote now passes
 
-### 3. Write unit test by code
+### 3. Write unit test by code (20 minutes)
 For this final part of the exercise, we will tackle the Testing block, which will allow you to write unit tests based on given code.
 - **For the function `formatDateTime(Date dateTime, String pattern)`** :
    - The unit test in `testFormatDateTime_WithPattern` will verify that for a given `Date` and a chosen pattern, the function `formatDateTime` return a string with the given format, _ex : avec dd/MM/yyyy HH:mm:ss on a "31/08/2024 08:46:00"_
